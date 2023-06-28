@@ -1,0 +1,10 @@
+{
+    "program": "wlsign.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8F6oVyd9quDo94wsfFmHBK1T6QW9viYzdh42sjKvRRNT",
+        "address": "aleo1prh7sjyts3f9qhhmuz8lz0jc4a328dnvf2lrfmdx5v2lspljs5xq7kaxd8"
+    },
+    "license": "MIT"
+}
